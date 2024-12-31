@@ -43,7 +43,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,c,python,spring,docker,mongodb,mysql,vscode,git,github,postman" />
+    <img src="https://skillicons.dev/icons?i=java,c,python,spring,docker,mongodb,mysql,vscode,git,github,postman,html,css,javascript,node,express,jquery" />
 </div>
 
 
